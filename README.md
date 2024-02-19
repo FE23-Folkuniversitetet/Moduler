@@ -1,6 +1,6 @@
 # Övning: Moduler - split the nota
 
-**Testa att dela upp koden i moduler och importera dessa i din main.js (eller vad din js-fil nu heter)**
+## Testa att dela upp koden i moduler och importera dessa i din main.js (eller vad din js-fil nu heter)*
 
 
 ## Instruktioner
