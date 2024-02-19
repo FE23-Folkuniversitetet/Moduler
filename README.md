@@ -16,5 +16,6 @@ All HTML, CSS och Javascript som ni behöver finns. Er utmaning är att lägga a
 ![alt text](screenshots/Screen-calculate.png)
 
 
-**Visa summa**
 ![alt text](screenshots/Screen-result.png)
+
+**Visa summa**
