@@ -1,7 +1,5 @@
 # Övning: Moduler - split the nota
 
-### Testa att dela upp koden i moduler och importera dessa i din main.js (eller vad din js-fil nu heter)
-
 
 ## Instruktioner
 
@@ -9,12 +7,14 @@ Split the nota räknar ut hur mycket varje vän ska betala på exempelvis en res
 
 All HTML, CSS och Javascript som ni behöver finns. Er utmaning är att lägga all kod i index.js i rätt ordning så sidan funkar. Testa er fram och använd konsolen i Chrome developer tools för att se eventuella Javascript fel. När sidan funkar har ni löst det. **Ni behöver inte skriva någon ny JS-kod utan all kod som behövs finns.**
 
+**Testa att dela upp koden i moduler och importera dessa i din main.js (eller vad din js-fil nu heter)**
 
 
 ### Screenshots
 
 **Räkna ut**
 ![alt text](screenshots/Screen-calculate.png)
+
 
 **Visa summa**
 ![alt text](screenshots/Screen-result.png)
